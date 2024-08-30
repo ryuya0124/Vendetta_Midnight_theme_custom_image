@@ -1,10 +1,10 @@
 {
-    "name": "Vendetta black",
+    "name": "Vendetta black image",
     "description": "Reproduction of genuine Discord midnight theme",
     "authors": [
         {
             "name": "ryuya",
-            "id": "543358384242556928"
+            "id": "543358384242556929"
         }
     ],
     "spec": 2,
