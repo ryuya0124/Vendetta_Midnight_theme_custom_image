@@ -757,6 +757,7 @@
         "YOUTUBE": "#cb2120"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/ryuya0124/Vendetta_Midnight_theme_custom_image/main/image.jpg?token=GHSAT0AAAAAACWZDKXAYMRIMCUOMK4BVUFMZWRLRZQ"
+        "url": "https://raw.githubusercontent.com/ryuya0124/Vendetta_Midnight_theme_custom_image/main/image.jpg?token=GHSAT0AAAAAACWZDKXAYMRIMCUOMK4BVUFMZWRLRZQ",
+        "alpha": 0.5
     }
 }
